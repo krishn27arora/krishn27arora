@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Arora</h1>
 <h3 align="center">B.Tech Student | Machine Learning Models | Database Management & Computer Vision</h3>
 
+- 🔭 I’m currently working on a project involving EEG signal pre-processing and ADHD classification. Specifically, I’m focusing on methods to clean and prepare EEG data for analysis, and then using various classification techniques to identify patterns associated with ADHD. This involves tasks like filtering noise, segmenting data, and applying machine learning algorithms to classify ADHD based on EEG features **EEG Signal Pre-processing and ADHD Classification**
+
 - 👨‍💻 All of my projects are available at [https://github.com/krishn27arora](https://github.com/krishn27arora)
 
 - 📫 How to reach me **kriish2702@gmail.com**
